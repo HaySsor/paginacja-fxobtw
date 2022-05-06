@@ -11,3 +11,5 @@ Wyświetlanie dużej ilości danych bywa uciążliwe. Paginacja (stronicowanie) 
 
 Zaimplementuj prosty mechanizm pagiancji, który na jednej stronie wyświetli 2 elementy z listy.
 - Przyciski "Previous" & "Next" powinny się wyłączać w chwili gdy jesteśmy odpowiednio na pierwszej i ostatniej stronie paginacji.
+
+live https://stackblitz.com/edit/paginacja-fxobtw?file=index.js

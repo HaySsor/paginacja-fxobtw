@@ -5,3 +5,6 @@ h1, h2 {
 .page-link{
   padding: 10px;
 }
+.disable{
+  color: rgb(180, 180, 180);
+}
